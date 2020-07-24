@@ -1,2 +1,3 @@
-# Conta-Banco
-Uma simulação de operações bancárias com C++
+# Calculadora em C++
+
+Um programa simples de calculadora com C++
